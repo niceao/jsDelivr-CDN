@@ -1,6 +1,6 @@
 # ciraos-static
 
-[JSD文件链接界面](https://cdn.jsdelivr.net/ghniceao/niceao-cdn@main/img/)
+[JSD文件链接界面](https://cdn.jsdelivr.net/gh/niceao/niceao-cdn/)
 
 ## 预览
 
