@@ -1,4 +1,4 @@
-# ciraos-static
+# niceao-cdn
 
 [JSD文件链接界面](https://cdn.jsdelivr.net/gh/niceao/niceao-cdn/)
 
